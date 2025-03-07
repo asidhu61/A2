@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>A2 - Resume</title><link href="https://asidhu61.github.io/A2/" rel="alternate"></link><link href="https://asidhu61.github.io/A2/feeds/resume.atom.xml" rel="self"></link><id>https://asidhu61.github.io/A2/</id><updated>2025-03-02T10:22:00-06:00</updated><entry><title>Resume</title><link href="https://asidhu61.github.io/A2/resume.html" rel="alternate"></link><published>2025-03-02T10:22:00-06:00</published><updated>2025-03-02T10:22:00-06:00</updated><author><name>Arshinder Sidhu</name></author><id>tag:asidhu61.github.io,2025-03-02:/A2/resume.html</id><summary type="html">&lt;h1&gt;Arshinder Sidhu&lt;/h1&gt;
-&lt;h3&gt;Qualifications&lt;/h3&gt;
-&lt;h3&gt;Areas of Expertise&lt;/h3&gt;
+&lt;h2&gt;Qualifications Profile&lt;/h2&gt;
+&lt;p&gt;Skilled at training staff members, resolving work-related problems, formulating key reports, developing operational procedures, engaging with other departments, assigning/reviewing existing work, and overseeing logistics. Instrumental in helping end-users by providing exceptional IT support services. Able to support employee relations functions, such as performance assessment, action …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Arshinder Sidhu&lt;/h1&gt;
+&lt;h2&gt;Qualifications Profile&lt;/h2&gt;
+&lt;p&gt;Skilled at training staff members, resolving work-related problems, formulating key reports, developing operational procedures, engaging with other departments, assigning/reviewing existing work, and overseeing logistics. Instrumental in helping end-users by providing exceptional IT support services. Able to support employee relations functions, such as performance assessment, action plans, and attendance management. &lt;/p&gt;
+&lt;h2&gt;Areas of Expertise&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Team Leadership &amp;amp; Coaching&lt;/li&gt;
 &lt;li&gt;Strategic Planning &amp;amp; Analysis&lt;/li&gt;
@@ -15,25 +18,7 @@
 &lt;li&gt;Payroll Processing&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Experience Highlights&lt;/h2&gt;
-&lt;h4&gt;Bird’s Construction, Winnipeg, Manitoba &amp;nbsp; &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  May 2022 – Present&lt;/h4&gt;
-&lt;h4&gt;Technical Analyst&lt;/h4&gt;
-&lt;p&gt;Work on multiple projects, prioritize, and meet deadlines. Proactively …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Arshinder Sidhu&lt;/h1&gt;
-&lt;h3&gt;Qualifications&lt;/h3&gt;
-&lt;h3&gt;Areas of Expertise&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Team Leadership &amp;amp; Coaching&lt;/li&gt;
-&lt;li&gt;Strategic Planning &amp;amp; Analysis&lt;/li&gt;
-&lt;li&gt;Operations Management&lt;/li&gt;
-&lt;li&gt;Performance Dashboard&lt;/li&gt;
-&lt;li&gt;Hardware &amp;amp; Software Support&lt;/li&gt;
-&lt;li&gt;Networking&lt;/li&gt;
-&lt;li&gt;Customer Service&lt;/li&gt;
-&lt;li&gt;Quality Control &amp;amp; Assurance&lt;/li&gt;
-&lt;li&gt;User Administration&lt;/li&gt;
-&lt;li&gt;Payroll Processing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Experience Highlights&lt;/h2&gt;
-&lt;h4&gt;Bird’s Construction, Winnipeg, Manitoba &amp;nbsp; &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  May 2022 – Present&lt;/h4&gt;
+&lt;h3&gt;Bird’s Construction, Winnipeg, Manitoba &amp;nbsp; &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  May 2022 – Present&lt;/h3&gt;
 &lt;h4&gt;Technical Analyst&lt;/h4&gt;
 &lt;p&gt;Work on multiple projects, prioritize, and meet deadlines. Proactively organize the online inventory system keeping track of all the ins and outs. Create new documentation for the new or existing processes for all the users. Provide level 1 and 2 support to end-users with queries through the built-in ticketing system while keeping up with time constraints. Image new systems with the organization’s profile while keeping track of all the security procedures.&lt;/p&gt;
 &lt;ul&gt;
@@ -43,7 +28,7 @@
 &lt;li&gt;Draft and proofread over 50 documents for all the required processes for technicians and end users&lt;/li&gt;
 &lt;li&gt;Asset and user management using Snipe-IT, Azure, AD Manager&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Pentagon Security Shutters, Stonewall, Manitoba &amp;nbsp; &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;    Jun 2017 – May 2020&lt;/h4&gt;
+&lt;h3&gt;Pentagon Security Shutters, Stonewall, Manitoba &amp;nbsp; &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp; Jun 2017 – May 2020&lt;/h3&gt;
 &lt;h4&gt;Quality Analyst&lt;/h4&gt;
 &lt;p&gt;Diffused QC investigation findings associated with deviations, test failures, and acceptance criteria issues. Enforced end-to-end controls for product quality control and assurance. Drove routine and special analyses of in-process materials and finished goods as per set policies. Assessed product quality against defined specifications and standards.&lt;/p&gt;
 &lt;ul&gt;
@@ -51,7 +36,7 @@
 &lt;li&gt;Recommended the idea to have a CNC machine, resulting in quick product manufacturing.&lt;/li&gt;
 &lt;li&gt;Developed new processes using CAD using in-house capabilities.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;A&amp;amp;W, Winnipeg, Manitoba&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;  Dec 2016 – Apr 2020&lt;/h4&gt;
+&lt;h3&gt;A&amp;amp;W, Winnipeg, Manitoba&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;  &amp;nbsp;   Dec 2016 – Apr 2020&lt;/h3&gt;
 &lt;h4&gt;Supervisor&lt;/h4&gt;
 &lt;p&gt;Translated work requirements into executable plans and schedules for teams. Calculated, reconciled, and processed payroll for continuous operations. Tracked inventory and proactively placed orders to maintain effective stock levels. Fulfilled employee needs and requirements by coordinating key resources.&lt;/p&gt;
 &lt;ul&gt;
@@ -60,7 +45,7 @@
 &lt;li&gt;Kept wastage to a minimum by having the right amount of inventory at the right time.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Education&lt;/h2&gt;
-&lt;h4&gt;Bachelor of Science in Computer Science&lt;/h4&gt;
+&lt;h3&gt;Bachelor of Science in Computer Science&lt;/h3&gt;
 &lt;p&gt;The University of Manitoba, Winnipeg, MB&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; 2020-2024&lt;/p&gt;
-&lt;h4&gt;Manufacturing Technician Diploma&lt;/h4&gt;
+&lt;h3&gt;Manufacturing Technician Diploma&lt;/h3&gt;
 &lt;p&gt;Red River College, Winnipeg, MB&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; 2015-2017&lt;/p&gt;</content><category term="Resume"></category></entry></feed>
