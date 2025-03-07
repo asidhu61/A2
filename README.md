@@ -1,6 +1,4 @@
-Author: Arshinder Sidhu
-
-# Assignment 2
+# README
 
 The following are a set of instructions describing how the resume was set up and hosted on Github Pages for anyone who wishes to use a markup language and host documents online. These instruction sets are focused on using Pelican as the static site generator, Github as the forge and Markdown as the language of choice. Keep in mind these are not the only tools available to perform this task.
 
